@@ -30,6 +30,6 @@ Pentru acest proiect am folosit:
 
 
  Principalele surse sunt:
- -Laboratoarele de la cursul de Introducere in Robotica FMI
- -Site-ul https://www.arduino.cc/
+ - Laboratoarele de la cursul de Introducere in Robotica FMI
+ - Site-ul https://www.arduino.cc/
   
