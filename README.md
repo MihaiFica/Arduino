@@ -28,6 +28,7 @@ Pentru acest proiect am folosit:
                                                               Documentatie 
 
 
+
  Principalele surse sunt:
  -Laboratoarele de la cursul de Introducere in Robotica FMI
  -Site-ul https://www.arduino.cc/
