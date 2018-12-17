@@ -5,17 +5,17 @@
 
 Pentru acest proiect am folosit:
 
--1 Matrice de leduri 8X8
--1 Microcontroller Arduino Uno
--1 BreadBord
--2 Mini BredBord
--3 Butoane
--3 Rezistente de 10k Ohm
--1 LCD
--1 Driver Max7219
--1 Condensator de 10 uF
--1 Condensator de 0,1 uF
--Multe fire
+- 1 Matrice de leduri 8X8
+- 1 Microcontroller Arduino Uno
+- 1 BreadBord
+- 2 Mini BredBord
+- 3 Butoane
+- 3 Rezistente de 10k Ohm
+- 1 LCD
+- 1 Driver Max7219
+- 1 Condensator de 10 uF
+- 1 Condensator de 0,1 uF
+- Multe fire
 
                                                     
                                                               Cum se joaca?
