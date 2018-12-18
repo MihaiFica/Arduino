@@ -18,7 +18,7 @@ Pentru acest proiect am folosit:
 - Multe fire
 
                                                     
-                                                              Cum se joaca?
+                                                            Cum se joaca?
 
 
  E destul de simplu, trebuie sa te deplasezi cu un bit(car) printre obstacole in timp ce viteza de deplasare creste liniar.
@@ -30,6 +30,5 @@ Pentru acest proiect am folosit:
 
 
  Principalele surse sunt:
- - Laboratoarele de la cursul de Introducere in Robotica FMI
  - Site-ul https://www.arduino.cc/
   
