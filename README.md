@@ -21,9 +21,9 @@ Pentru acest proiect am folosit:
                                                             Cum se joaca?
 
 
- E destul de simplu, trebuie sa te deplasezi cu un bit(car) printre obstacole in timp ce viteza de deplasare creste liniar.
- Distanta parcursa de bit(car) se contorizeaza in puncte iar pentru fiecare linie din harta parcursa primesti 10 puncte
- 
+ E destul de simplu, trebuie sa te deplasezi cu un bit printre obstacole in timp ce viteza de deplasare creste liniar.
+ Distanta parcursa de bit(car) se contorizeaza in puncte iar pentru fiecare linie din harta parcursa primesti 10 puncte.In momentul in care 
+ bitul paraseste traseul jocul se termina.
  
                                                               Documentatie 
 
