@@ -24,7 +24,7 @@ Pentru acest proiect am folosit:
  E destul de simplu, trebuie sa te deplasezi cu un bit printre obstacole in timp ce viteza de deplasare creste liniar.
  Distanta parcursa de bit se contorizeaza in puncte iar pentru fiecare linie din harta parcursa primesti 10 puncte.In momentul in care 
  bitul paraseste traseul jocul se termina.
- Scorul si nivelul de dificultate sunt afisat pe LCD.
+ Scorul si nivelul de dificultate sunt afisate pe LCD.
  
                                                               Documentatie 
 
