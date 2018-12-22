@@ -163,7 +163,7 @@
        {
             v[i] = i;
        }
-       for (int j = 0; j< 62; j++)
+       for (int j = 0; j < 62; j++)
        {
             b[j] = j;
        }
