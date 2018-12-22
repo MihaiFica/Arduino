@@ -32,4 +32,8 @@ Pentru acest proiect am folosit:
 
  Principalele surse sunt:
  - Site-ul https://www.arduino.cc/
+ 
+                                                                 Video 
+ 
+ https://www.youtube.com/watch?v=AH9KcHa_JzE
   
